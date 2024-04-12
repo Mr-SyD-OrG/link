@@ -49,7 +49,7 @@ async def start(b, m):
                 return
             except Exception:
                 await m.reply_photo(
-                    photo="https://graph.org/file/bee17850e842b8ecaad3c.jpg",
+                    photo="https://graph.org/file/8653b4816d7a19dd4f267.jpg",
                     caption="**ʜᴇʟʟᴏ...⚡\n\nɪ,ᴀᴍ ᴀ ᴩʀᴏ✨️ ᴛᴇʟᴇɢʀᴀᴍ ғɪʟᴇ/ᴠɪᴅᴇᴏ ᴄᴏɴᴠᴇʀᴛᴇʀ ᴛᴏ ᴘᴇʀᴍᴀɴᴇɴᴛ ʟɪɴᴋ. A sᴛʀᴇᴀᴍ ʟɪɴᴋ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ ᴡɪᴛʜ ʙᴇꜱᴛ ꜰᴇᴀᴛᴜʀᴇꜱ⚡️.**\n\n**ᴜsᴇ /help ғᴏʀ ᴍᴏʀᴇ ᴅᴇᴛsɪʟs\n\nsᴇɴᴅ ᴍᴇ ᴀɴʏ ᴠɪᴅᴇᴏ / ғɪʟᴇ ᴛᴏ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ...**",
                     reply_markup=InlineKeyboardMarkup(
                        [
@@ -62,7 +62,7 @@ async def start(b, m):
                 )
                 return
         await m.reply_photo(
-                    photo="https://graph.org/file/bee17850e842b8ecaad3c.jpg",
+                    photo="https://graph.org/file/8653b4816d7a19dd4f267.jpg",
                     caption="**ʜᴇʟʟᴏ...⚡\n\nɪ,ᴀᴍ ᴀ ᴩʀᴏ✨️ ᴛᴇʟᴇɢʀᴀᴍ ғɪʟᴇ/ᴠɪᴅᴇᴏ ᴄᴏɴᴠᴇʀᴛᴇʀ ᴛᴏ ᴘᴇʀᴍᴀɴᴇɴᴛ ʟɪɴᴋ. A sᴛʀᴇᴀᴍ ʟɪɴᴋ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ ᴡɪᴛʜ ʙᴇꜱᴛ ꜰᴇᴀᴛᴜʀᴇꜱ⚡️.**\n\n**ᴜsᴇ /help ғᴏʀ ᴍᴏʀᴇ ᴅᴇᴛsɪʟs\n\nsᴇɴᴅ ᴍᴇ ᴀɴʏ ᴠɪᴅᴇᴏ / ғɪʟᴇ ᴛᴏ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ...**",
                     reply_markup=InlineKeyboardMarkup(
                        [
@@ -100,7 +100,7 @@ async def start(b, m):
                 return
             except Exception:
                 await message.reply_photo(
-                    photo="https://graph.org/file/bee17850e842b8ecaad3c.jpg",
+                    photo="https://graph.org/file/8653b4816d7a19dd4f267.jpg",
                     caption="**ʜᴇʟʟᴏ...⚡\n\nɪ,ᴀᴍ ᴀ ᴩʀᴏ✨️ ᴛᴇʟᴇɢʀᴀᴍ ғɪʟᴇ/ᴠɪᴅᴇᴏ ᴄᴏɴᴠᴇʀᴛᴇʀ ᴛᴏ ᴘᴇʀᴍᴀɴᴇɴᴛ ʟɪɴᴋ. A sᴛʀᴇᴀᴍ ʟɪɴᴋ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ ᴡɪᴛʜ ʙᴇꜱᴛ ꜰᴇᴀᴛᴜʀᴇꜱ⚡️.**\n\n**ᴜsᴇ /help ғᴏʀ ᴍᴏʀᴇ ᴅᴇᴛsɪʟs\n\nsᴇɴᴅ ᴍᴇ ᴀɴʏ ᴠɪᴅᴇᴏ / ғɪʟᴇ ᴛᴏ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ...**",
                     reply_markup=InlineKeyboardMarkup(
                        [
@@ -183,7 +183,7 @@ async def help_handler(bot, message):
                     reply_markup=InlineKeyboardMarkup(
                        [
                             [InlineKeyboardButton("✲ UᴩᴅΔᴛᴇꜱ ✲", url="https://t.me/Bot_cracker"), InlineKeyboardButton("☆ Gᴇᴛ MᴏVɪᴇꜱ ☆", url="https://t.me/Mod_Moviez_X/228")],
-                            [InlineKeyboardButton("♚ Oᴡɴᴇʀ ♚", url="https://t.me/Bot_cracker"), InlineKeyboardButton ("⌬ Pʀᴏ-ꜱɪᴛᴇ ⌬", url="https://t.me/+7TYOxeNL37I5MWRl"), InlineKeyboardButton("⚘ Bᴏᴛꜱ ➾", url="https://t.me/Bot_Cracker/17")],
+                            [InlineKeyboardButton("♚ Oᴡɴᴇʀ ♚", user_id=1733124290), InlineKeyboardButton ("⌬ Pʀᴏ-ꜱɪᴛᴇ ⌬", url="https://t.me/+7TYOxeNL37I5MWRl"), InlineKeyboardButton("⚘ Bᴏᴛꜱ ➾", url="https://t.me/Bot_Cracker/17")],
                             [InlineKeyboardButton("✫ Mᴏᴠɪᴇꜱ Gʀᴏᴜᴩ ✫", url="https://t.me/+d7djWG_VLfcwMzg9")]
                        ]
                     )
@@ -195,7 +195,7 @@ async def help_handler(bot, message):
                     reply_markup=InlineKeyboardMarkup(
                        [
                             [InlineKeyboardButton("✲ UᴩᴅΔᴛᴇꜱ ✲", url="https://t.me/Bot_cracker"), InlineKeyboardButton("☆ Gᴇᴛ MᴏVɪᴇꜱ ☆", url="https://t.me/Mod_Moviez_X/228")],
-                            [InlineKeyboardButton("♚ Oᴡɴᴇʀ ♚", url="https://t.me/Bot_cracker"), InlineKeyboardButton ("⌬ Pʀᴏ-ꜱɪᴛᴇ ⌬", url="https://t.me/+7TYOxeNL37I5MWRl"), InlineKeyboardButton("⚘ Bᴏᴛꜱ ➾", url="https://t.me/Bot_Cracker/17")],
+                            [InlineKeyboardButton("♚ Oᴡɴᴇʀ ♚", user_id=1733124290), InlineKeyboardButton ("⌬ Pʀᴏ-ꜱɪᴛᴇ ⌬", url="https://t.me/+7TYOxeNL37I5MWRl"), InlineKeyboardButton("⚘ Bᴏᴛꜱ ➾", url="https://t.me/Bot_Cracker/17")],
                             [InlineKeyboardButton("✫ Mᴏᴠɪᴇꜱ Gʀᴏᴜᴩ ✫", url="https://t.me/+d7djWG_VLfcwMzg9")]
                        ]
                     )
