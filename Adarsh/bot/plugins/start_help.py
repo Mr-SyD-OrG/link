@@ -15,6 +15,7 @@ from pyrogram.types import ReplyKeyboardMarkup
 
 @StreamBot.on_message(filters.command('start') & filters.private)
 async def start(b, m):
+    return
     if not await db.is_user_exist(m.from_user.id):
         await db.add_user(m.from_user.id)
         await b.send_message(
@@ -145,6 +146,7 @@ async def start(b, m):
 
 @StreamBot.on_message(filters.command('help') & filters.private)
 async def help_handler(bot, message):
+    return
     if not await db.is_user_exist(message.from_user.id):
         await db.add_user(message.from_user.id)
         await bot.send_message(
@@ -203,6 +205,7 @@ async def help_handler(bot, message):
 
 @StreamBot.on_message(filters.command('about') & filters.private)
 async def about_handler(bot, message):
+    return
     if not await db.is_user_exist(message.from_user.id):
         await db.add_user(message.from_user.id)
         await bot.send_message(
